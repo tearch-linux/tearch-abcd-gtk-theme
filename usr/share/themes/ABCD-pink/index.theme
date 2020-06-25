@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ABCD-pink
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ABCD-pink
+MetacityTheme=ABCD-pink
+IconTheme=ABCD-pink
+CursorTheme=ABCD-pink
+ButtonLayout=menu:minimize,maximize,close

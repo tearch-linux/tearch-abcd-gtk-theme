@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ABCD-light-green
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ABCD-light-green
+MetacityTheme=ABCD-light-green
+IconTheme=ABCD-light-green
+CursorTheme=ABCD-light-green
+ButtonLayout=menu:minimize,maximize,close

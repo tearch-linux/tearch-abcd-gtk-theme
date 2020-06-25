@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ABCD-cyan
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ABCD-cyan
+MetacityTheme=ABCD-cyan
+IconTheme=ABCD-cyan
+CursorTheme=ABCD-cyan
+ButtonLayout=menu:minimize,maximize,close

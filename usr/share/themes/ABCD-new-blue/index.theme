@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ABCD-new-blue
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ABCD-new-blue
+MetacityTheme=ABCD-new-blue
+IconTheme=ABCD-new-blue
+CursorTheme=ABCD-new-blue
+ButtonLayout=menu:minimize,maximize,close

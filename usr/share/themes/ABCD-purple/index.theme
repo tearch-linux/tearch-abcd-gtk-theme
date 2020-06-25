@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ABCD-purple
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ABCD-purple
+MetacityTheme=ABCD-purple
+IconTheme=ABCD-purple
+CursorTheme=ABCD-purple
+ButtonLayout=menu:minimize,maximize,close

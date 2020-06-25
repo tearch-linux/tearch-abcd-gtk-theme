@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ABCD-new-drab
+Comment=default GTK theme for linux
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ABCD-new-drab
+MetacityTheme=ABCD-new-drab
+IconTheme=ABCD-new-drab
+CursorTheme=ABCD-new-drab
+ButtonLayout=menu:minimize,maximize,close
